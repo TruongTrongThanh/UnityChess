@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - redmap
+  - piece
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Board
+  - Piece
+  - Redmap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Board
+    uniqueID: 718547507
+    locked: 0
+  - name: Piece
+    uniqueID: 2065454931
+    locked: 0
+  - name: FocusPiece
+    uniqueID: 1001876015
+    locked: 0
+  - name: Red dot
+    uniqueID: 1591203941
+    locked: 0
+  - name: FrontUI
+    uniqueID: 4046167331
+    locked: 0
